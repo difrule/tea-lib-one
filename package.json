@@ -1,6 +1,6 @@
 {
   "name": "tea-lib-one",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/difrule/tea-lib-one#readme",
   "dependencies": {
-    "react": "^18.2.0"
+    "react": "^18.2.0",
+    "teatrc20": "^1.0.0",
+    "wwwtea": "^1.0.4"
   }
 }
